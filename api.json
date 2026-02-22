@@ -25,12 +25,10 @@
     { "id": "prod-34542a6a-019", "name": "Elite Item 19", "category": "clothing", "price": 192.51, "stock": 2, "rating": 4.7 }
   ],
   "aggregations": {
-    "categories": {
       "clothing": { "count": 6, "inventoryValue": 136226.92 },
       "books": { "count": 3, "inventoryValue": 67100.36 },
       "sports": { "count": 5, "inventoryValue": 81642.87 },
       "home": { "count": 2, "inventoryValue": 12592.8 },
       "electronics": { "count": 3, "inventoryValue": 25533.15 }
-    }
   }
 }
